@@ -1,5 +1,5 @@
 # OIB-SIP-Level2-Task3
-Created a To-do list web app using HTML, CSS and Javascript. Access the calculator through this link:
+Created a To-do list web app using HTML, CSS and Javascript. Access the calculator through this link: https://to-do-list-ankit.netlify.app/
 
 Developed a to-do web app that enables a user to add daily tasks.
 
